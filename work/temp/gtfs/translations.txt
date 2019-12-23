@@ -1,0 +1,133 @@
+﻿trans_id,lang,translation
+松枝バス停,ja,松枝バス停
+松枝バス停,ja-Hrkt,まつえだばすてい
+松枝バス停,en,Matsueda
+長渕バス停,ja,長渕バス停
+長渕バス停,ja-Hrkt,ながぶちばすてい
+長渕バス停,en,Nagabuchi
+中井橋バス停,ja,中井橋バス停
+中井橋バス停,ja-Hrkt,なかいばしばすてい
+中井橋バス停,en,Nakaibashi
+赤谷バス停,ja,赤谷バス停
+赤谷バス停,ja-Hrkt,あかやばすてい
+赤谷バス停,en,Akaya
+芦ヶ久保郵便局,ja,芦ヶ久保郵便局
+芦ヶ久保郵便局,ja-Hrkt,あしがくぼゆうびんきょく
+芦ヶ久保郵便局,en,Ashigakubo Post Office
+日向山公会堂,ja,日向山公会堂
+日向山公会堂,ja-Hrkt,ひなたやまこうかいどう
+日向山公会堂,en,Hinatayama Kokaido (Hinatayama Public Hall)
+活性化センター,ja,活性化センター
+活性化センター,ja-Hrkt,かっせいかせんたー
+活性化センター,en,Kasseika Center
+芦ヶ久保駅,ja,芦ヶ久保駅
+芦ヶ久保駅,ja-Hrkt,あしがくぼえき
+芦ヶ久保駅,en,Ashigakubo Station
+3区コミュニテイ広場,ja,3区コミュニテイ広場
+3区コミュニテイ広場,ja-Hrkt,３くこみゅにてぃひろば
+3区コミュニテイ広場,en,Community Hiroba 3
+里宮前,ja,里宮前
+里宮前,ja-Hrkt,さとみやまえ
+里宮前,en,Satomiya
+川連製作所,ja,川連製作所
+川連製作所,ja-Hrkt,かわつれせいさくしょ
+川連製作所,en,Kawatsure Seisakusho
+横瀬石油,ja,横瀬石油
+横瀬石油,ja-Hrkt,よこぜせきゆ
+横瀬石油,en,Yokoze Sekiyu
+3区公会堂,ja,3区公会堂
+3区公会堂,ja-Hrkt,３くこうかいどう
+3区公会堂,en,Kokaido 3(Public Hall 3)
+総合福祉センター,ja,総合福祉センター
+総合福祉センター,ja-Hrkt,そうごうふくしせんたー
+総合福祉センター,en,Sogo Fukushi Center
+苅米公会堂,ja,苅米公会堂
+苅米公会堂,ja-Hrkt,かるごめこうかいどう
+苅米公会堂,en,Karugome Kokaido (Karugome Public Hall)
+寺坂棚田第1駐車場,ja,寺坂棚田第1駐車場
+寺坂棚田第1駐車場,ja-Hrkt,てらさかたなだだい１ちゅうしゃじょう
+寺坂棚田第1駐車場,en,Terasaka Tanada Chushajo 1
+町民会館,ja,町民会館
+町民会館,ja-Hrkt,ちょうみんかいかん
+町民会館,en,Chomin Kaikan
+横瀬郵便局前,ja,横瀬郵便局前
+横瀬郵便局前,ja-Hrkt,よこぜゆうびんきょくまえ
+横瀬郵便局前,en,Yokoze Yubinkyoku (Yokoze Post Office)
+札所9番,ja,札所9番
+札所9番,ja-Hrkt,ふだしょ９ばん
+札所9番,en,Hudasho 9
+横瀬駅,ja,横瀬駅
+横瀬駅,ja-Hrkt,よこぜえき
+横瀬駅,en,Yokoze Station
+横瀬町役場,ja,横瀬町役場
+横瀬町役場,ja-Hrkt,よこぜまちやくば
+横瀬町役場,en,Yokoze Machiyakuba (Yokoze Town Hall)
+和田河原,ja,和田河原
+和田河原,ja-Hrkt,わだがわら
+和田河原,en,Wadagawara
+ホルモンきくや,ja,ホルモンきくや
+ホルモンきくや,ja-Hrkt,ほるもんきくや
+ホルモンきくや,en,Hormone Kikuya
+田端商店,ja,田端商店
+田端商店,ja-Hrkt,たばたしょうてん
+田端商店,en,Tabata Shoten
+荒舩医院・なでしこ,ja,荒舩医院・なでしこ
+荒舩医院・なでしこ,ja-Hrkt,あらふねいいん・なでしこ
+荒舩医院・なでしこ,en,Arafune Iin/ Nadeshiko (Arafune Clinic/ Nadeshiko)
+ヤオヨシ,ja,ヤオヨシ
+ヤオヨシ,ja-Hrkt,やおよし
+ヤオヨシ,en,Yaoyoshi
+語歌橋バス停,ja,語歌橋バス停
+語歌橋バス停,ja-Hrkt,ごかばしばすてい
+語歌橋バス停,en,Gokabashi
+15区集落センター,ja,15区集落センター
+15区集落センター,ja-Hrkt,１５くしゅうらくせんたー
+15区集落センター,en,Shuraku Center 15
+16区集落センター,ja,16区集落センター
+16区集落センター,ja-Hrkt,１６くしゅうらくせんたー
+16区集落センター,en,Shuraku Center 16
+松田医院,ja,松田医院
+松田医院,ja-Hrkt,まつだいいん
+松田医院,en,Matsuda Iin (Matsuda Clinic)
+荻原医院,ja,荻原医院
+荻原医院,ja-Hrkt,おぎはらいいん
+荻原医院,en,Ogihara Iin (Ogihara Clinic)
+東林寺,ja,東林寺
+東林寺,ja-Hrkt,とうりんじ
+東林寺,en,Torinji (Torinji Temple)
+御製碑前,ja,御製碑前
+御製碑前,ja-Hrkt,ごせいひまえ
+御製碑前,en,Goseihi
+姿見山浄水場,ja,姿見山浄水場
+姿見山浄水場,ja-Hrkt,すがたみやまじょうすいじょう
+姿見山浄水場,en,Sugatamiyama Josuijo (Water Purification Plant)
+ウエルシア,ja,ウエルシア
+ウエルシア,ja-Hrkt,うえるしあ
+ウエルシア,en,Welcia
+いの整骨院,ja,いの整骨院
+いの整骨院,ja-Hrkt,いのせっこついん
+いの整骨院,en,Ino Sekkotsuin (Ino Orthopedic Clinic)
+ウニクス,ja,ウニクス
+ウニクス,ja-Hrkt,うにくす
+ウニクス,en,Unicus
+秩父市立病院,ja,秩父市立病院
+秩父市立病院,ja-Hrkt,ちちぶしりつびょういん
+秩父市立病院,en,Chichibu-shiritsu Byoin (Chichibu Municipal Hospital)
+秩父駅,ja,秩父駅
+秩父駅,ja-Hrkt,ちちぶえき
+秩父駅,en,Chichibu Station
+ブコーさん号（松枝バス停発秩父駅行）,ja,ブコーさん号（松枝バス停発秩父駅行）
+ブコーさん号（松枝バス停発秩父駅行）,ja-Hrkt,ぶこーさんごう
+ブコーさん号（総合福祉センター発秩父駅行）,ja,ブコーさん号（総合福祉センター発秩父駅行）
+ブコーさん号（総合福祉センター発秩父駅行）,ja-Hrkt,ぶこーさんごう
+ブコーさん号（秩父駅発総合福祉センター行）,ja,ブコーさん号（秩父駅発総合福祉センター行）
+ブコーさん号（秩父駅発総合福祉センター行）,ja-Hrkt,ぶこーさんごう
+ブコーさん号（秩父駅発松枝バス停行）,ja,ブコーさん号（秩父駅発松枝バス停行）
+ブコーさん号（秩父駅発松枝バス停行）,ja-Hrkt,ぶこーさんごう
+ブコーさん号（総合福祉センター発松枝バス停行）,ja,ブコーさん号（総合福祉センター発松枝バス停行）
+ブコーさん号（総合福祉センター発松枝バス停行）,ja-Hrkt,ぶこーさんごう
+ブコーさん号（松枝バス停発秩父駅行）,en,Bukou-san
+ブコーさん号（総合福祉センター発秩父駅行）,en,Bukou-san
+ブコーさん号（秩父駅発総合福祉センター行）,en,Bukou-san
+ブコーさん号（秩父駅発松枝バス停行）,en,Bukou-san
+ブコーさん号（総合福祉センター発松枝バス停行）,en,Bukou-san

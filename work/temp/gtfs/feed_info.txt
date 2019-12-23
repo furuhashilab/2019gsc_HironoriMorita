@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_version
+横瀬町,http://www.town.yokoze.saitama.jp/soshiki/kenkou/koureisya/community_bus.html,ja,2019v01

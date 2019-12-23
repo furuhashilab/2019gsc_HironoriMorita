@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
+5000020113611,横瀬町ブコーさん号,http://www.town.yokoze.saitama.jp/soshiki/kenkou/koureisya/community_bus.html,Asia/Tokyo,ja,0494-25-0112
