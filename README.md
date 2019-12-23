@@ -1,6 +1,9 @@
 # 2019gsc_HironoriMorita
 森田浩徳の2019年ゼミ論製作用レポジトリ
 
+## ゼミ論概要
+https://docs.google.com/document/d/1nrjUEDHCy1_jfZpbAv9w1JKhHQuP9enuL402ZKIsiO0/edit
+
 ## 2019/11/18 ゼミ論報告v1
 ##### プレゼン資料
 https://speakerdeck.com/22hero1072/gtfs
