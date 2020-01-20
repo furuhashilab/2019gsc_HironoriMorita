@@ -104,7 +104,7 @@ Clement, J (2019). “Global digital population as of October 2019”. Statista.
 Panko, R. (2018). “The Popularity of Google Maps: Trends in Navigation Apps in 2018”. The Manifest. 2018/7/10更新 Retrieved from https://themanifest.com/app-development/popularity-google-maps-trends-navigation-apps-2018 (最終アクセス:2019/12/28)
 
 内閣府(2016). 「公共交通に関する世論調査」
-https://survey.gov-online.go.jp/h28/h28-kotsu/gairyaku.pdf
+https://survey.gov-online.go.jp/h28/h28-kotsu/gairyaku.pdf （最終アクセス：2020/1/12）
 
 
 ## Acknowledgements/謝辞:
