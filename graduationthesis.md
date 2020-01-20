@@ -111,7 +111,7 @@ https://survey.gov-online.go.jp/h28/h28-kotsu/gairyaku.pdf （最終アクセス
 
 # 本文
 
-![Graduationthesis](file:///Users/22hero1072/Downloads/graduationthesis.html "QR")
+![Graduationthesis](https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/data/graduationthesis.png?raw=true "QR")
 
 卒論本文
 https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/graduationthesis.md
