@@ -116,10 +116,10 @@ https://survey.gov-online.go.jp/h28/h28-kotsu/gairyaku.pdf
 
 
 卒論本文
-https://furuhashilab.github.io/www4taroaoyama/
+https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/graduationthesis.md
 
 
 リポジトリ
-https://github.com/furuhashilab/www4taroaoyama
+https://github.com/furuhashilab/2019gsc_HironoriMorita
 
 
