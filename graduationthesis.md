@@ -112,8 +112,7 @@ https://survey.gov-online.go.jp/h28/h28-kotsu/gairyaku.pdf
 
 # 本文
 
-
-
+![Graduationthesis](file:///Users/22hero1072/Downloads/graduationthesis.html "QR")
 
 卒論本文
 https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/graduationthesis.md
@@ -122,4 +121,8 @@ https://github.com/furuhashilab/2019gsc_HironoriMorita/blob/master/graduationthe
 リポジトリ
 https://github.com/furuhashilab/2019gsc_HironoriMorita
 
+プレゼン資料
+https://speakerdeck.com/22hero1072/gtfs
 
+中間報告
+https://medium.com/furuhashilab/gtfs%E5%8C%96%E3%81%AB%E3%82%88%E3%82%8B%E7%94%9F%E6%B4%BB%E3%81%AE%E3%81%97%E3%82%84%E3%81%99%E3%81%84%E7%A4%BE%E4%BC%9A%E3%81%A5%E3%81%8F%E3%82%8A-ab9dc3d6eaed
