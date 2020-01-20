@@ -100,13 +100,7 @@
 　またどの頻度で情報を更新していくか、いかにして後継者に公開した情報を引き継ぐのかを明確にしていく必要がある。現状としては、2025年3月31日までは担当することになっている。GTFSについてより研究を深めていきたい人がいるのであれば、情報を提供することを皮切りに引き継いでいきたいと考えている。1年のみではなくより長期的な分析をするためにも、後継者による受け継ぎ研究を求めたい。
 
 ## Reference/参考文献:
-Clement, J (2019). “Global digital population as of October 2019”. Statista. 2019/11/20更新 Retrieved from https://www.statista.com/statistics/617136/digital-population-worldwide/
-(最終アクセス:2019/12/28)
-
-Panko, R. (2018). “The Popularity of Google Maps: Trends in Navigation Apps in 2018”. The Manifest. 2018/7/10更新 Retrieved from https://themanifest.com/app-development/popularity-google-maps-trends-navigation-apps-2018 (最終アクセス:2019/12/28)
-
-内閣府(2016). 「公共交通に関する世論調査」
-https://survey.gov-online.go.jp/h28/h28-kotsu/gairyaku.pdf （最終アクセス：2020/1/12）
+https://docs.google.com/spreadsheets/d/1b3zJtV9aeoEbU6COSN43mfO-JS4y4jXCwW9wkrCSfeA/edit#gid=0
 
 
 ## Acknowledgements/謝辞:
